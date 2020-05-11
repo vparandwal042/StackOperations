@@ -1,27 +1,27 @@
 # StackOperations
   This C++ file contains:<br>
-    1.Evaluation of postfix Expression.
-    2.Evaluation of prefix Expression.
+    1.Evaluation of postfix Expression.<br>
+    2.Evaluation of prefix Expression.<br>
     3.Conversions
     
 ## Evaluation of postfix Expression
-  Enter any postfix expression and get value of that expression
-  For example,
-    given postfix expression = abc*+d-
-    enter value of a, b, c, d = 2, 3, 1, 9
-    value of this expression = -4
+  Enter any postfix expression and get value of that expression<br>
+  For example,<br>
+    given postfix expression = abc*+d-<br>
+    enter value of a, b, c, d = 2, 3, 1, 9<br>
+    value of this expression = -4<br>
     
 ## Evaluation of prefix Expression
-  Enter any prefix expression and get value of that expression
-  For example,
-    given prefix expression = +a* bc
-    enter value of a, b, c = 9, 2, 6
-    value of this expression = 21
+  Enter any prefix expression and get value of that expression<br>
+  For example,<br>
+    given prefix expression = +a* bc<br>
+    enter value of a, b, c = 9, 2, 6<br>
+    value of this expression = 21<br>
     
 ## Conversions
-  1.Infix to Postfix(Including Fully Parenthiesis).
-  2.Infix to Prefix(Including Full Parenthesis).
-  3.Postfix to Infix.
-  4.Postfix to Prefix.
-  5.Prefix to Infix.
-  6.Prefix to Postfix.
+  1.Infix to Postfix(Including Fully Parenthiesis).<br>
+  2.Infix to Prefix(Including Full Parenthesis).<br>
+  3.Postfix to Infix.<br>
+  4.Postfix to Prefix.<br>
+  5.Prefix to Infix.<br>
+  6.Prefix to Postfix.<br>
